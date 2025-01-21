@@ -1,0 +1,1 @@
+SELECT movie_id FROM moviedb.movie_genres 

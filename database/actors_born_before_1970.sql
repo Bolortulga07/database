@@ -1,0 +1,1 @@
+select name from moviedb.actors where birthdate < "1970-01-01"

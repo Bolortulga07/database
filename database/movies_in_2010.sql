@@ -1,0 +1,1 @@
+select * from moviedb.movies where year between "2010-01-01" and "2010-12-31"
